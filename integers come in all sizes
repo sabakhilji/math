@@ -1,0 +1,6 @@
+p = int(input().strip())
+q = int(input().strip())
+r = int(input().strip())
+s = int(input().strip())
+    
+print(pow(p, q) + pow(r, s))
